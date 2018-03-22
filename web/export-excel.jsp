@@ -42,7 +42,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hello Royer</h1>
         <img src="grafico-barras.jsp"/>
         <table border="1">
             <thead>
